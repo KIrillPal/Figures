@@ -1,0 +1,15 @@
+﻿  DrawingMap.cpp
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.h(6): warning C4091: typedef : пропускается слева от "Box", когда ни одна переменная не объявлена
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(13): warning C4838: преобразование из "double" в "const float" требует сужающего преобразования
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(13): warning C4305: инициализация: усечение из "double" к "const float"
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(84): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(98): warning C4244: =: преобразование "float" в "uint16_t", возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(99): warning C4244: инициализация: преобразование "float" в "std::size_t", возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(112): warning C4244: аргумент: преобразование "float" в "std::size_t", возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(112): warning C4267: аргумент: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(113): warning C4244: аргумент: преобразование "float" в "std::size_t", возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(113): warning C4267: аргумент: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(145): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+c:\users\kirillpal\documents\visual studio 2015\projects\figures\figures\drawingmap.cpp(146): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  Figures.vcxproj -> C:\Users\KirillPal\Documents\Visual Studio 2015\Projects\Figures\x64\Debug\Figures.exe
+  Figures.vcxproj -> C:\Users\KirillPal\Documents\Visual Studio 2015\Projects\Figures\x64\Debug\Figures.pdb (Partial PDB)
